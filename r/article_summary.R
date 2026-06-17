@@ -1,0 +1,10 @@
+#!/usr/bin/env Rscript
+inventory <- read.csv("data/article_inventory.csv", stringsAsFactors = FALSE)
+siblings <- read.csv("data/sibling_article_maps.csv", stringsAsFactors = FALSE)
+dir.create("outputs", showWarnings = FALSE, recursive = TRUE)
+section_counts <- as.data.frame(table(inventory$section), stringsAsFactors = FALSE)
+names(section_counts) <- c("section", "article_count")
+write.csv(section_counts, "outputs/r_section_counts.csv", row.names = FALSE)
+lines <- c("# R Article Summary", "", paste0("Total articles: ", nrow(inventory)), paste0("Total sibling article maps: ", nrow(siblings)), "", "## Sections", paste0("- ", section_counts$section, ": ", section_counts$article_count))
+writeLines(lines, "outputs/r_article_summary.md")
+cat("R article summary complete.\n")

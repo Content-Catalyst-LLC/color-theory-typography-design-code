@@ -1,0 +1,12 @@
+# R Article Summary
+
+Total articles: 36
+Total sibling article maps: 7
+
+## Sections
+- Part I — Foundations of Visual Communication: 6
+- Part II — Color Theory: 6
+- Part III — Typography: 6
+- Part IV — Layout, Grids, and Composition: 6
+- Part V — Branding, Interfaces, and Design Systems: 6
+- Part VI — Design Ethics and Responsible Form: 6

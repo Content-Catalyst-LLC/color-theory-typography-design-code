@@ -1,0 +1,56 @@
+{
+  "article_count": 36,
+  "section_count": 6,
+  "sections": {
+    "Part I — Foundations of Visual Communication": 6,
+    "Part II — Color Theory": 6,
+    "Part III — Typography": 6,
+    "Part IV — Layout, Grids, and Composition": 6,
+    "Part V — Branding, Interfaces, and Design Systems": 6,
+    "Part VI — Design Ethics and Responsible Form": 6
+  },
+  "sibling_article_maps": [
+    {
+      "article_map": "Beauty, Aesthetics, and Meaning",
+      "slug": "beauty-aesthetics-meaning",
+      "repo": "beauty-aesthetics-meaning-code",
+      "website_url": "https://sustainablecatalyst.com/beauty-aesthetics-meaning/"
+    },
+    {
+      "article_map": "Aesthetics and the Philosophy of Art",
+      "slug": "aesthetics-philosophy-of-art",
+      "repo": "aesthetics-philosophy-of-art-code",
+      "website_url": "https://sustainablecatalyst.com/aesthetics-philosophy-of-art/"
+    },
+    {
+      "article_map": "Color Theory, Typography, and Design",
+      "slug": "color-theory-typography-design",
+      "repo": "color-theory-typography-design-code",
+      "website_url": "https://sustainablecatalyst.com/color-theory-typography-design/"
+    },
+    {
+      "article_map": "Music Theory, Form, and Meaning",
+      "slug": "music-theory-form-meaning",
+      "repo": "music-theory-form-meaning-code",
+      "website_url": "https://sustainablecatalyst.com/music-theory-form-meaning/"
+    },
+    {
+      "article_map": "Mathematics, Art, Music, and Pattern",
+      "slug": "mathematics-art-music-pattern",
+      "repo": "mathematics-art-music-pattern-code",
+      "website_url": "https://sustainablecatalyst.com/mathematics-art-music-pattern/"
+    },
+    {
+      "article_map": "Symbolism, Style, and Cultural Meaning",
+      "slug": "symbolism-style-cultural-meaning",
+      "repo": "symbolism-style-cultural-meaning-code",
+      "website_url": "https://sustainablecatalyst.com/symbolism-style-cultural-meaning/"
+    },
+    {
+      "article_map": "Creative Form, Composition, and Interpretation",
+      "slug": "creative-form-composition-interpretation",
+      "repo": "creative-form-composition-interpretation-code",
+      "website_url": "https://sustainablecatalyst.com/creative-form-composition-interpretation/"
+    }
+  ]
+}

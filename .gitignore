@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.DS_Store
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.venv/
+node_modules/
+target/
+outputs/tmp/

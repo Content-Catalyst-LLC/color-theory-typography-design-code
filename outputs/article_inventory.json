@@ -1,0 +1,290 @@
+[
+  {
+    "title": "What Is Visual Communication?",
+    "slug": "what-is-visual-communication",
+    "section": "Part I — Foundations of Visual Communication",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/what-is-visual-communication/",
+    "folder": "articles/what-is-visual-communication/"
+  },
+  {
+    "title": "Design as Meaning-Making",
+    "slug": "design-as-meaning-making",
+    "section": "Part I — Foundations of Visual Communication",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/design-as-meaning-making/",
+    "folder": "articles/design-as-meaning-making/"
+  },
+  {
+    "title": "Form, Function, and Communication",
+    "slug": "form-function-and-communication",
+    "section": "Part I — Foundations of Visual Communication",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/form-function-and-communication/",
+    "folder": "articles/form-function-and-communication/"
+  },
+  {
+    "title": "Visual Literacy in the Modern World",
+    "slug": "visual-literacy-in-the-modern-world",
+    "section": "Part I — Foundations of Visual Communication",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/visual-literacy-in-the-modern-world/",
+    "folder": "articles/visual-literacy-in-the-modern-world/"
+  },
+  {
+    "title": "How Visual Hierarchy Guides Attention",
+    "slug": "how-visual-hierarchy-guides-attention",
+    "section": "Part I — Foundations of Visual Communication",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/how-visual-hierarchy-guides-attention/",
+    "folder": "articles/how-visual-hierarchy-guides-attention/"
+  },
+  {
+    "title": "The Ethics of Making Information Visible",
+    "slug": "the-ethics-of-making-information-visible",
+    "section": "Part I — Foundations of Visual Communication",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/the-ethics-of-making-information-visible/",
+    "folder": "articles/the-ethics-of-making-information-visible/"
+  },
+  {
+    "title": "Color Perception and Human Vision",
+    "slug": "color-perception-and-human-vision",
+    "section": "Part II — Color Theory",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/color-perception-and-human-vision/",
+    "folder": "articles/color-perception-and-human-vision/"
+  },
+  {
+    "title": "Hue, Value, Saturation, and Contrast",
+    "slug": "hue-value-saturation-and-contrast",
+    "section": "Part II — Color Theory",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/hue-value-saturation-and-contrast/",
+    "folder": "articles/hue-value-saturation-and-contrast/"
+  },
+  {
+    "title": "Color Harmony and Visual Tension",
+    "slug": "color-harmony-and-visual-tension",
+    "section": "Part II — Color Theory",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/color-harmony-and-visual-tension/",
+    "folder": "articles/color-harmony-and-visual-tension/"
+  },
+  {
+    "title": "Color Symbolism and Cultural Meaning",
+    "slug": "color-symbolism-and-cultural-meaning",
+    "section": "Part II — Color Theory",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/color-symbolism-and-cultural-meaning/",
+    "folder": "articles/color-symbolism-and-cultural-meaning/"
+  },
+  {
+    "title": "Color Systems, Palettes, and Design Consistency",
+    "slug": "color-systems-palettes-and-design-consistency",
+    "section": "Part II — Color Theory",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/color-systems-palettes-and-design-consistency/",
+    "folder": "articles/color-systems-palettes-and-design-consistency/"
+  },
+  {
+    "title": "Color Accessibility and Contrast Standards",
+    "slug": "color-accessibility-and-contrast-standards",
+    "section": "Part II — Color Theory",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/color-accessibility-and-contrast-standards/",
+    "folder": "articles/color-accessibility-and-contrast-standards/"
+  },
+  {
+    "title": "Typography as Visual Language",
+    "slug": "typography-as-visual-language",
+    "section": "Part III — Typography",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/typography-as-visual-language/",
+    "folder": "articles/typography-as-visual-language/"
+  },
+  {
+    "title": "Legibility, Readability, and Reading Experience",
+    "slug": "legibility-readability-and-reading-experience",
+    "section": "Part III — Typography",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/legibility-readability-and-reading-experience/",
+    "folder": "articles/legibility-readability-and-reading-experience/"
+  },
+  {
+    "title": "Type Classification and Historical Form",
+    "slug": "type-classification-and-historical-form",
+    "section": "Part III — Typography",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/type-classification-and-historical-form/",
+    "folder": "articles/type-classification-and-historical-form/"
+  },
+  {
+    "title": "Typographic Hierarchy and Information Structure",
+    "slug": "typographic-hierarchy-and-information-structure",
+    "section": "Part III — Typography",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/typographic-hierarchy-and-information-structure/",
+    "folder": "articles/typographic-hierarchy-and-information-structure/"
+  },
+  {
+    "title": "Spacing, Scale, and Typographic Rhythm",
+    "slug": "spacing-scale-and-typographic-rhythm",
+    "section": "Part III — Typography",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/spacing-scale-and-typographic-rhythm/",
+    "folder": "articles/spacing-scale-and-typographic-rhythm/"
+  },
+  {
+    "title": "Typography, Voice, and Institutional Identity",
+    "slug": "typography-voice-and-institutional-identity",
+    "section": "Part III — Typography",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/typography-voice-and-institutional-identity/",
+    "folder": "articles/typography-voice-and-institutional-identity/"
+  },
+  {
+    "title": "Composition and Visual Hierarchy",
+    "slug": "composition-and-visual-hierarchy",
+    "section": "Part IV — Layout, Grids, and Composition",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/composition-and-visual-hierarchy/",
+    "folder": "articles/composition-and-visual-hierarchy/"
+  },
+  {
+    "title": "Grid Systems and Design Order",
+    "slug": "grid-systems-and-design-order",
+    "section": "Part IV — Layout, Grids, and Composition",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/grid-systems-and-design-order/",
+    "folder": "articles/grid-systems-and-design-order/"
+  },
+  {
+    "title": "White Space, Rhythm, and Balance",
+    "slug": "white-space-rhythm-and-balance",
+    "section": "Part IV — Layout, Grids, and Composition",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/white-space-rhythm-and-balance/",
+    "folder": "articles/white-space-rhythm-and-balance/"
+  },
+  {
+    "title": "Editorial Design and Knowledge Presentation",
+    "slug": "editorial-design-and-knowledge-presentation",
+    "section": "Part IV — Layout, Grids, and Composition",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/editorial-design-and-knowledge-presentation/",
+    "folder": "articles/editorial-design-and-knowledge-presentation/"
+  },
+  {
+    "title": "Information Architecture and Visual Structure",
+    "slug": "information-architecture-and-visual-structure",
+    "section": "Part IV — Layout, Grids, and Composition",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/information-architecture-and-visual-structure/",
+    "folder": "articles/information-architecture-and-visual-structure/"
+  },
+  {
+    "title": "Diagrams, Maps, and Visual Explanation",
+    "slug": "diagrams-maps-and-visual-explanation",
+    "section": "Part IV — Layout, Grids, and Composition",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/diagrams-maps-and-visual-explanation/",
+    "folder": "articles/diagrams-maps-and-visual-explanation/"
+  },
+  {
+    "title": "Brand Identity as a Visual System",
+    "slug": "brand-identity-as-a-visual-system",
+    "section": "Part V — Branding, Interfaces, and Design Systems",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/brand-identity-as-a-visual-system/",
+    "folder": "articles/brand-identity-as-a-visual-system/"
+  },
+  {
+    "title": "Interface Aesthetics and User Trust",
+    "slug": "interface-aesthetics-and-user-trust",
+    "section": "Part V — Branding, Interfaces, and Design Systems",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/interface-aesthetics-and-user-trust/",
+    "folder": "articles/interface-aesthetics-and-user-trust/"
+  },
+  {
+    "title": "Design Systems and Reusable Visual Logic",
+    "slug": "design-systems-and-reusable-visual-logic",
+    "section": "Part V — Branding, Interfaces, and Design Systems",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/design-systems-and-reusable-visual-logic/",
+    "folder": "articles/design-systems-and-reusable-visual-logic/"
+  },
+  {
+    "title": "Data Visualization and Responsible Interpretation",
+    "slug": "data-visualization-and-responsible-interpretation",
+    "section": "Part V — Branding, Interfaces, and Design Systems",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/data-visualization-and-responsible-interpretation/",
+    "folder": "articles/data-visualization-and-responsible-interpretation/"
+  },
+  {
+    "title": "Digital Layout, Responsive Design, and Reading Flow",
+    "slug": "digital-layout-responsive-design-and-reading-flow",
+    "section": "Part V — Branding, Interfaces, and Design Systems",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/digital-layout-responsive-design-and-reading-flow/",
+    "folder": "articles/digital-layout-responsive-design-and-reading-flow/"
+  },
+  {
+    "title": "Visual Consistency Across Platforms",
+    "slug": "visual-consistency-across-platforms",
+    "section": "Part V — Branding, Interfaces, and Design Systems",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/visual-consistency-across-platforms/",
+    "folder": "articles/visual-consistency-across-platforms/"
+  },
+  {
+    "title": "Design Ethics and Visual Power",
+    "slug": "design-ethics-and-visual-power",
+    "section": "Part VI — Design Ethics and Responsible Form",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/design-ethics-and-visual-power/",
+    "folder": "articles/design-ethics-and-visual-power/"
+  },
+  {
+    "title": "Dark Patterns and Persuasive Interfaces",
+    "slug": "dark-patterns-and-persuasive-interfaces",
+    "section": "Part VI — Design Ethics and Responsible Form",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/dark-patterns-and-persuasive-interfaces/",
+    "folder": "articles/dark-patterns-and-persuasive-interfaces/"
+  },
+  {
+    "title": "Inclusive Design and Accessibility",
+    "slug": "inclusive-design-and-accessibility",
+    "section": "Part VI — Design Ethics and Responsible Form",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/inclusive-design-and-accessibility/",
+    "folder": "articles/inclusive-design-and-accessibility/"
+  },
+  {
+    "title": "Designing for Public Knowledge",
+    "slug": "designing-for-public-knowledge",
+    "section": "Part VI — Design Ethics and Responsible Form",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/designing-for-public-knowledge/",
+    "folder": "articles/designing-for-public-knowledge/"
+  },
+  {
+    "title": "Visual Clarity Without Oversimplification",
+    "slug": "visual-clarity-without-oversimplification",
+    "section": "Part VI — Design Ethics and Responsible Form",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/visual-clarity-without-oversimplification/",
+    "folder": "articles/visual-clarity-without-oversimplification/"
+  },
+  {
+    "title": "Responsible Visual Communication: A Capstone",
+    "slug": "responsible-visual-communication-a-capstone",
+    "section": "Part VI — Design Ethics and Responsible Form",
+    "status": "planned",
+    "website_url": "https://sustainablecatalyst.com/responsible-visual-communication-a-capstone/",
+    "folder": "articles/responsible-visual-communication-a-capstone/"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "repo": "color-theory-typography-design-code",
+  "organization": "Content-Catalyst-LLC",
+  "article_map": "Color Theory, Typography, and Design",
+  "article_map_slug": "color-theory-typography-design",
+  "category": "Meaning",
+  "repo_identity": "design systems, color tools, typography scales, accessibility checks, and visual communication workflows",
+  "standard": "Meaning studio-lab companion repository",
+  "includes_article_folders": true,
+  "includes_calculators": true,
+  "includes_canvas_layer": true,
+  "push_in_setup_script": true
+}

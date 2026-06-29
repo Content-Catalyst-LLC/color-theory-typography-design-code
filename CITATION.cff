@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Color Theory, Typography, and Design"
+authors:
+  - name: "Content Catalyst LLC"
+year: 2026
+repository-code: "https://github.com/Content-Catalyst-LLC/color-theory-typography-design-code"
+license: "MIT"

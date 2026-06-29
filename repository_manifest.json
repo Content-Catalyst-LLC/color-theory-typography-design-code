@@ -1,0 +1,16 @@
+{
+  "repository": "color-theory-typography-design-code",
+  "title": "Color Theory, Typography, and Design",
+  "series": "Meaning",
+  "organization": "Content-Catalyst-LLC",
+  "description": "Companion repository for color theory, typography, visual hierarchy, design systems, symbolic form, and aesthetic communication.",
+  "repository_type": "interpretive-research-companion",
+  "primary_domains": [
+    "meaning",
+    "aesthetics",
+    "symbol",
+    "interpretation",
+    "human understanding"
+  ],
+  "principle": "Structured tools support interpretation; they do not reduce meaning to measurement."
+}

@@ -1,24 +1,26 @@
 # Color Theory, Typography, and Design
 
-This repository supports the **Color Theory, Typography, and Design** article map in the **Meaning** category from Content Catalyst LLC.
+Companion repository for color theory, typography, visual hierarchy, design systems, symbolic form, and aesthetic communication.
 
-## Repository Identity
+This repository is part of the **Meaning** library architecture from Content Catalyst LLC.
 
-design systems, color tools, typography scales, accessibility checks, and visual communication workflows
+The Meaning repositories are designed as interpretive research companions. They organize concepts, examples, references, schemas, notebooks, and lightweight reproducible tools for studying meaning with clarity and care.
 
-## Purpose
+These repositories do **not** reduce beauty, art, symbol, story, ritual, memory, music, pattern, or human experience to mere data. They use structured files to make relationships visible while preserving interpretation, ambiguity, judgment, and depth.
 
-Meaning repositories are studio-lab repositories for aesthetic, symbolic, musical, visual, mathematical, and creative interpretation. They use code to clarify form, compare structures, generate examples, organize research, produce visual/audio/design artifacts, and support future website tools.
+## Repository structure
 
-They do not replace interpretation with automation.
+```text
+data/       Structured CSV datasets and article-map registries
+docs/       Method notes, interpretive cautions, taxonomy guides
+notebooks/  Exploratory digital-humanities notebooks
+python/     Lightweight validation and export scripts
+r/          Summary and visualization scripts
+sql/        Schema and query examples
+outputs/    Generated exports
+tests/      Basic repository integrity checks
+```
 
-## Structure
+## Core principle
 
-- `article_map.md` — article sequence for this map
-- `articles/` — one folder per individual article in this article map
-- `article_maps/` — sibling Meaning article map links and crosswalks
-- `python/`, `r/`, `sql/` — reproducible research and studio-lab workflows
-- `calculators/` — self-contained tools for eventual website reuse
-- `canvas/` — Catalyst Canvas-ready manifest, cards, schemas, and governance notes
-- `data/` — article inventory and synthetic teaching data
-- `outputs/` — generated summaries and smoke-test outputs
+Meaning is not a metric. The purpose of this repository is to support careful study, not to mechanize interpretation.
